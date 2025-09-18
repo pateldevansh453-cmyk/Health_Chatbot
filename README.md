@@ -1,2 +1,2 @@
 # Health_Chatbot
-AI Symptom Checker 
+AI Symptom Checke
